@@ -1,6 +1,6 @@
-# Will You Be My Valentine? 💌
+# Do You Wanna Go Out With Me 💌
 
-This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration and avoid simply copying it without understanding or giving credit.
+This project is designed to be an interactive webpage to ask someone to go out. This code is a modification from https://github.com/ivysone/Will-you-be-my-Valentine- || Credits to : @ivysone
 
 ---
 
